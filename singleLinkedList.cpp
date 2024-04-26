@@ -174,5 +174,5 @@ int main(){
         catch (exception e){
             cout << "Terjadi ksalahan" << endl;
         }
-    }
+    } while (pilihan != 5);
 }
