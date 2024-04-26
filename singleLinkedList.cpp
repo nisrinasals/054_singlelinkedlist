@@ -157,7 +157,8 @@ int main(){
                     system("cls");
                 }
                 else
-                    
+                    cout << "Data tidak ditemukan" << endl;
+                break;
         }
     }
 }
